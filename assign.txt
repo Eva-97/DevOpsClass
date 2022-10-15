@@ -1,6 +1,6 @@
 "Hello"
 I am your favourite programmer
-I just created my new AWS portal for a DevOps class.
+and I started a DevOps Class
 
 Also,
 I have been trying to decode the elements of my new AWS portal.
