@@ -1,3 +1,7 @@
 "Hello"
 I am your favourite programmer
-And I have started a DevOps Class.
+I just created my new AWS portal for a DevOps class.
+
+Also,
+I have been trying to decode the elements of my new AWS portal.
+Such a great place to be.
